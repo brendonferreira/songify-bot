@@ -1,0 +1,21 @@
+{
+  "name": "songify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "firebase": "^4.9.0",
+    "media-source-stream": "^2.0.4",
+    "node-opus": "^0.2.7",
+    "opusscript": "0.0.6",
+    "simple-peer": "^8.2.0",
+    "wrtc": "0.0.65"
+  }
+}
